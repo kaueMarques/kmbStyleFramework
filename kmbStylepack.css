@@ -1,0 +1,43 @@
+/*
+Author: Kauê Marques
+Date: 27/Jul/2020
+version 1.0
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rosarivo:ital@0;1&display=swap');
+
+/* ===== tags ===== */
+
+input{
+    background-color: unset;
+    border: none;
+    width: auto;
+    height: auto;
+}
+
+/* ===== no-specification ===== */
+
+.box{
+
+    border-radius: 28px;
+
+}
+
+
+.inpt-box{
+
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0);
+    border-radius: 28px;
+    padding: 5px;
+}
+
+.btn-curved{
+    
+    width: max-content;
+    height: max-content;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 176.5px;
+    padding: 2vh;
+
+}
