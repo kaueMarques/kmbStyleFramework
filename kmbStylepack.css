@@ -1,7 +1,25 @@
 /*
 Author: Kauê Marques
-Date: 27/Jul/2020
-version 2.0
+Last update: 20/Ago/2020
+version 3.0
+
+========== Chengelog  ==========
+
+Version 1:
+    +Input session
+    +Box Session
+    +div-space
+    +inpt-box
+    
+Version 2:
+    +bug-fix
+
+Version 3:
+    +Animated button
+
+
+================================
+
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Rosarivo:ital@0;1&display=swap');
@@ -42,6 +60,14 @@ input{
 
 }
 
+.btn-curved:hover{
+    background: rgba(0, 0, 0, 0.5);
+}
+
 .div-space{
-    height: 100vh;
+
+    height: 101vh;
+    align-items: center;
+    justify-content: center;
+    
 }
